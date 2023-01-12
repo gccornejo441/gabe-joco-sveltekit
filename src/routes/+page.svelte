@@ -5,8 +5,8 @@
 
 
 <svelte:head>
-	<title>Josh Collinsworth</title>
-	<meta property="og:title" content="Josh Collinsworth" />
+	<title>Gabe Cornejo</title>
+	<meta property="og:title" content="Gabe Cornejo" />
 	<meta data-key="description" property="og:description" name="description" content="Front-end developer, designer, teacher and writer">
   <meta property="og:image" content="https://joshcollinsworth.com/images/site-image.png" />
 	<meta name="twitter:image" content="https://joshcollinsworth.com/images/site-image.png"/>
@@ -16,7 +16,7 @@
 <Main>
   <div class="intro">
     <div class="intro__headline">
-      <h2><strong>Hi, I’m Josh</strong>. I'm a frontend developer, designer, writer, and&nbsp;teacher.
+      <h2><strong>Hi, I’m Gabe</strong>. I'm a frontend developer, designer, writer, and&nbsp;teacher.
       </h2>
     </div>
 

@@ -2,19 +2,19 @@
   <li>
     <span role="img" alt="" aria-hidden="true">💻</span>
     <a href="/projects">
-      Things I made
+      Builds
     </a>
   </li>
   <li>
     <span role="img" alt="" aria-hidden="true">📖</span>
     <a href="/blog">
-      Things I wrote
+      Microblogs
     </a>
   </li>
   <li>
     <span role="img" alt="" aria-hidden="true">✉️</span>
     <a href="/contact?from_page=home">
-      A thing I made so you can write me
+      Let's Chat
     </a>
   </li>
 </ul>

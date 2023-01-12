@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 145 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-0.533,-7.555)">
-        <path d="M24.551,31.574L24.551,151.668L60.58,151.668L60.58,175.687L0.533,175.687L0.533,7.555L60.58,7.555L60.58,31.574L24.551,31.574Z" style="fill:rgb(167,168,170);"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-0.533,-7.555)">
-        <path d="M144.646,175.687L84.598,175.687L84.598,151.668L120.627,151.668L120.627,31.574L84.598,31.574L84.598,7.555L144.646,7.555L144.646,175.687Z" style="fill:rgb(255,209,0);"/>
-    </g>
+<svg width="450" height="450" viewBox="0 0 450 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="225" cy="225" r="225" fill="#FFC700"/>
+<rect x="321.475" y="15.6562" width="115" height="316" rx="57.5" transform="rotate(66 321.475 15.6562)" fill="url(#paint0_linear_206_22)"/>
+<rect x="229.327" y="47.4663" width="115" height="316" rx="57.5" transform="rotate(-9.5 229.327 47.4663)" fill="url(#paint1_linear_206_22)"/>
+<defs>
+<linearGradient id="paint0_linear_206_22" x1="380.234" y1="15.1653" x2="378.974" y2="331.656" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BEBEBE"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_206_22" x1="288.087" y1="46.9754" x2="286.827" y2="363.466" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BEBEBE"/>
+<stop offset="1" stop-color="#2F2F2F"/>
+</linearGradient>
+</defs>
 </svg>
