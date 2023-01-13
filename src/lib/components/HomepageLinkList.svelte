@@ -8,7 +8,7 @@
   <li>
     <span role="img" alt="" aria-hidden="true">📖</span>
     <a href="/blog">
-      Microblogs
+      Blogs
     </a>
   </li>
   <li>
